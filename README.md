@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋 I'm Chandu Dasari  
 
-<!--
-**dasarichandu2309/dasarichandu2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | Python | EDA | Statistics  
+📍 India  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+I am a Data Science student with a strong foundation in Python and Exploratory Data Analysis.  
+I enjoy working with data, uncovering patterns, and turning insights into meaningful decisions.  
+Currently focused on building practical skills through hands-on projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Skills  
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Exploratory Data Analysis (EDA)  
+- Statistics (Basics)  
+
+### 🔹 Projects  
+- 🐍 **Python Fundamentals** – Core programs, problem solving, logic building  
+- 📊 **Exploratory Data Analysis** – Data cleaning, visualization, and insights  
+- 📁 **Mini Projects** – Real-world datasets and analysis workflows  
+
+### 🔹 Currently Learning  
+- Machine Learning  
+- SQL  
+
+📫 **Connect with me:**  
+- GitHub: https://github.com/dasarichandu2309  
+- LinkedIn: www.linkedin.com/in/dasari-chandu-4374022b6 
