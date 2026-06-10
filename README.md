@@ -46,10 +46,15 @@ Currently focused on building practical skills through hands-on projects and con
 - SQL  
 
 📫 **Connect with me:**  
-- GitHub: https://github.com/dasarichandu2309  
-- LinkedIn: www.linkedin.com/in/dasari-chandu-4374022b6
-- ## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/dasarichandu2309/dasarichandu2309/blob/output/github-contribution-grid-snake.svg" />
+-<p align="center">
+  <a href="www.linkedin.com/in/dasari-chandu-4374022b6">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  &nbsp;&nbsp;
+  
+  <a href="dasarichandu2309@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
