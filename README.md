@@ -47,10 +47,10 @@ Currently focused on building practical skills through hands-on projects and con
 
 📫 **Connect with me:**  
 -<p align="center">
-  <a href="www.linkedin.com/in/dasari-chandu-4374022b6">
+  <a href="https://www.linkedin.com/in/dasari-chandu-4374022b6">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="dasarichandu2309@gmail.com">
+  <a href="https://dasarichandu2309@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
