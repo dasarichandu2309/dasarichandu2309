@@ -6,14 +6,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ IMPORTANT FIX
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3   # ✅ updated
+      - uses: actions/checkout@v4   # ✅ latest version
 
       - uses: Platane/snk@v3
         with:
@@ -21,7 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3   # ✅ updated
+      - uses: crazy-max/ghaction-github-pages@v4   # ✅ latest version
         with:
           target_branch: output
           build_dir: dist
